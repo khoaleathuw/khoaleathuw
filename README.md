@@ -58,12 +58,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khoaleathuw&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=khoaleathuw&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoaleathuw&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=khoaleathuw&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
+  <img height="180" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=khoaleathuw&hide_border=false&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff9d00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 </p>
 
 ---
