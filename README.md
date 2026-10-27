@@ -27,10 +27,16 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **Memory Booth** | Nền tảng chia sẻ quà tặng & kỷ niệm qua NFC: ghi âm, album ảnh, nhiều theme giao diện | Spring Boot · JPA · Thymeleaf · JS |
+| [**memory-gift**](https://github.com/khoaleathuw/memory-gift) | Nền tảng chia sẻ quà tặng & kỷ niệm qua NFC: ghi âm, album ảnh, nhiều theme giao diện | Spring Boot · JPA · Thymeleaf · JS |
 | **Sky Ocean Diary** | Nền tảng ảnh, giọng nói và lời nhắn gắn với mã NFC | Spring Boot · JPA · Thymeleaf · JS |
-| [**review_app**](https://github.com/khoaleathuw/review_app) | Giao diện đánh giá khách hàng / nhân viên | HTML · CSS · JS |
 | [**matcha_nfc**](https://github.com/khoaleathuw/matcha_nfc) | Trang web matcha tích hợp NFC | HTML · CSS · JS |
+| [**review_app**](https://github.com/khoaleathuw/review_app) | Giao diện đánh giá khách hàng / nhân viên | HTML · CSS · JS |
+| [**lovecare**](https://github.com/khoaleathuw/lovecare) | Dự án web LoveCare | — |
+| [**musicweb**](https://github.com/khoaleathuw/musicweb) | Web nghe nhạc | — |
+| [**sawad**](https://github.com/khoaleathuw/sawad) | Dự án web Sawad | — |
+| [**QLSV**](https://github.com/khoaleathuw/QLSV) | Quản lý sinh viên | — |
+| [**Hotel**](https://github.com/khoaleathuw/Hotel) | Quản lý / đặt phòng khách sạn | — |
+| [**AgeGenderEmotion**](https://github.com/khoaleathuw/AgeGenderEmotion) | Nhận diện tuổi, giới tính, cảm xúc | — |
 
 ---
 
