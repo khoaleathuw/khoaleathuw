@@ -27,8 +27,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **Memory Booth** | NFC-linked gift & memory sharing app | Spring Boot · JPA · Thymeleaf |
-| **Sky Ocean Diary** | Photo / voice / message platform tied to NFC UIDs | Spring Boot · JPA · JS |
+| **Memory Booth** | Nền tảng chia sẻ quà tặng & kỷ niệm qua NFC: ghi âm, album ảnh, nhiều theme giao diện | Spring Boot · JPA · Thymeleaf · JS |
+| **Sky Ocean Diary** | Nền tảng ảnh, giọng nói và lời nhắn gắn với mã NFC | Spring Boot · JPA · Thymeleaf · JS |
+| [**review_app**](https://github.com/khoaleathuw/review_app) | Giao diện đánh giá khách hàng / nhân viên | HTML · CSS · JS |
+| [**matcha_nfc**](https://github.com/khoaleathuw/matcha_nfc) | Trang web matcha tích hợp NFC | HTML · CSS · JS |
 
 ---
 
@@ -47,5 +49,6 @@
 
 ## 📫 Contact
 
-- 🌐 Website: https://khoaleathuw.github.io
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [Lê Duy Khoa](https://www.linkedin.com/in/%C3%AA-duy-khoa-5421112b7)
+- 📘 Facebook: [khoale203](https://www.facebook.com/khoale203)
+- 📷 Instagram: [_khoale](https://www.instagram.com/_khoale)
