@@ -116,7 +116,7 @@ A web application for managing customer and employee reviews.
 
 | Project | Description | Technologies |
 |---|---|---|
-| [matcha_nfc](https://github.com/khoaleathuw/matcha_nfc) | Matcha website integrated with NFC | Spring Boot · MySQL |
+
 | [lovecare](https://github.com/khoaleathuw/lovecare) | LoveCare web application | Spring Boot · MySQL |
 | [sawad](https://github.com/khoaleathuw/sawad) | Web application project | Spring Boot · MySQL |
 | [QLSV](https://github.com/khoaleathuw/QLSV) | Student management system | Spring Boot · MySQL |
