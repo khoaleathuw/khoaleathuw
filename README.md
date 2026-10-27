@@ -36,7 +36,7 @@
 | [**sawad**](https://github.com/khoaleathuw/sawad) | Dự án web Sawad | — |
 | [**QLSV**](https://github.com/khoaleathuw/QLSV) | Quản lý sinh viên | — |
 | [**Hotel**](https://github.com/khoaleathuw/Hotel) | Quản lý / đặt phòng khách sạn | — |
-| [**AgeGenderEmotion**](https://github.com/khoaleathuw/AgeGenderEmotion) | Nhận diện tuổi, giới tính, cảm xúc | — |
+| [**AgeGenderEmotion**](https://github.com/khoaleathuw/AgeGenderEmotion) | Nhận diện tuổi, giới tính, cảm xúc | Python · NumPy |
 
 ---
 
